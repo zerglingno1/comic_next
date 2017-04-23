@@ -19,6 +19,6 @@ export default class MainPage extends React.Component {
 
   render() {
     return (
-    <View>HELLO</View>);
+    <View><Text>HELLO</Text></View>);
   }
 }
